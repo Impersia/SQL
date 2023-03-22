@@ -1,4 +1,4 @@
-use QuanLyDeAn2
+use QuanLyDeAn
 
 create table PHONGBAN(
 	MaPHG varchar(2) not null primary key,
